@@ -37,11 +37,9 @@ The recommended decisions are therefore different:
 
 ## Classification
 
-**High-risk use case with a potential prohibited-practice issue.**
+**Prohibited-practice concern — deny and redesign.**
 
-The system is used in an education/examination context to monitor students and identify unusual behaviour during tests. This creates a high-risk concern.
-
-However, the proposed inference of students' stress and engagement creates an additional issue that must be assessed against the AI Act's prohibited-practice rules concerning emotion recognition.
+The system is used in an education/examination context to monitor students and identify unusual behaviour during tests. Prohibited-practice concern in an education/examination context; deny as proposed and redesign.
 
 ## Proposed AI Architecture
 
@@ -122,7 +120,7 @@ The system can potentially be deployed, but the required high-risk controls and 
 
 ---
 
-# 4. Case 3 — Customer Service Chatbot
+# 4. Case 3 — Skincare Customer Service Chatbot
 
 ## Classification
 
